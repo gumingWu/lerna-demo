@@ -1,6 +1,6 @@
 {
   "name": "@w-demo/utils",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "gumingWu <15626185054@163.com>",
@@ -31,5 +31,5 @@
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "c1f9943b89bb5235f0acc9b042767ca2565deca2"
+  "gitHead": "842b8045ff249853dc530dfe21b81224845522a6"
 }
