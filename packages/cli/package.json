@@ -29,5 +29,6 @@
   "dependencies": {
     "@w-demo/utils": "^0.0.1",
     "chalk": "^5.0.0"
-  }
+  },
+  "gitHead": "7ea4cd99ac6b34ea89141b044399cbdd346d282d"
 }
