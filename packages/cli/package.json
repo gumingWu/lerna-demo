@@ -1,6 +1,6 @@
 {
   "name": "@w-demo/cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "gumingWu <15626185054@163.com>",
   "homepage": "https://github.com/gumingWu/lerna-demo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/gumingWu/lerna-demo/issues"
   },
   "dependencies": {
-    "@w-demo/utils": "^0.0.6",
+    "@w-demo/utils": "^0.0.7",
     "chalk": "^5.0.0"
   },
   "gitHead": "b83a505f5bd619774b3b5a308372182b0996b426"
